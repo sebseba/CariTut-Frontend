@@ -1,0 +1,6 @@
+{
+    "name": "My Web App",
+    "short_name": "Web App",
+    "description": "A simple web application",
+    "start_url": "/"
+  }
