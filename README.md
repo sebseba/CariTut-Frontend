@@ -2,7 +2,7 @@
 
 Open terminal/cmd and run:
 
-### `git clone https://oguzhanpar@bitbucket.org/oguzhanjs/testi.git`
+### `git clone `
 
 ## Second Step
 
